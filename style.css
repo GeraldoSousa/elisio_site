@@ -1,0 +1,61 @@
+body{
+    background-color:lightgrey;
+}
+
+h3{
+    color:blue;
+}
+
+
+.instagram{
+    color: blue;
+    width: 130px;
+    display: flex;
+    margin-left:  40px;
+    margin-right: 40px;
+    font-size: 16px;
+}
+
+.Facebook{
+    color:blue;
+    display: flex;
+    width:130px;
+    margin-left:10px;
+    font-size: 16px;
+}
+
+.Informacoes{
+    color:blue;
+    width:130px;
+    font-size: 16px;
+
+.Fundamental{
+
+   background-color:lightgrey;
+   color:lightgrey;
+    width:130px;
+    margin-left:30px;
+    font-size: 16px;
+}
+
+
+}
+
+.Medio{
+    color:blue;
+    width:130px;
+    margin-left:30px;
+    font-size: 16px;
+    }
+
+
+.jemg{
+    color:blue;
+    width:130px;
+    margin-left:30px;
+    font-size: 16px;
+    
+
+    }
+
+    
